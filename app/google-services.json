@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "770742683351",
+    "firebase_url": "https://sp19-305-mleichty-bar.firebaseio.com",
+    "project_id": "sp19-305-mleichty-bar",
+    "storage_bucket": "sp19-305-mleichty-bar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770742683351:android:fc152136e6ccd79b",
+        "android_client_info": {
+          "package_name": "edu.iu.mleichty.bartender"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "770742683351-g0ru7u3bnbkiif72abu9j4luda3cjal7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuYzZkqpVRW30w0JBoCHAXUzBluQ8oXdc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "770742683351-g0ru7u3bnbkiif72abu9j4luda3cjal7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
